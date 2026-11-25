@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#13315C"/>
+      <stop offset="0.55" stop-color="#134074"/>
+      <stop offset="1" stop-color="#00B4D8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g2)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2">
+    <rect x="300" y="70" width="200" height="150" rx="14"/>
+    <line x1="300" y1="110" x2="500" y2="110"/>
+    <rect x="330" y="140" width="140" height="14" rx="7" fill="#fff" fill-opacity="0.5" stroke="none"/>
+    <rect x="330" y="165" width="100" height="14" rx="7" fill="#fff" fill-opacity="0.3" stroke="none"/>
+  </g>
+  <text x="400" y="330" font-family="Arial,sans-serif" font-size="44" font-weight="bold" fill="#ffffff" text-anchor="middle">Clothing Store</text>
+  <text x="400" y="368" font-family="Arial,sans-serif" font-size="24" fill="#CAF0F8" text-anchor="middle">Inventory &amp; Billing System</text>
+  <text x="400" y="403" font-family="Arial,sans-serif" font-size="18" fill="#90E0EF" text-anchor="middle">Java • Swing • MySQL</text>
+</svg>
